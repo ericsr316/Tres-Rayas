@@ -36,7 +36,7 @@ There isn't AI just the program choose a random number with the function **rand(
 
 Yes, you can win if you make a line with three characters for example: 
 
-<p> X X X< /p>      <p> O X O</p>     <p> X O O </p>
+<p> X X X </p>      <p> O X O</p>     <p> X O O </p>
 
 <p> O * O </p>      <p> X X O</p>     <p> X * O </p>
 
