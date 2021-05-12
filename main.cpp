@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    juego();
+    game();
     return 0;
 }
 

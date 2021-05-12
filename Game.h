@@ -20,14 +20,14 @@ char board[row][column]  = {
                 };
 
 
-void juego(){
+void game(){
 int r;
 int c;
 int check = false;
 do{
-std::cout<<"Gato jueguito\n";
+std::cout<<"Tres Rayas by emmc316\n";
 printBoard(board,row,column);
-std::cout<<"Ingrese las coordenadas en las que desea fichar\n";
+std::cout<<"Type where want to point in the board example [0][0]\nr must be minor or equal than 0 and greather or equal than 2\nc must be minor or equal than 0 and greather or equal than 2\n";
 do{
 std::cin>>r;
 std::cin>>c;
