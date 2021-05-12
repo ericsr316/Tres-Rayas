@@ -36,12 +36,20 @@ There isn't AI just the program choose a random number with the function **rand(
 
 Yes, you can win if you make a line with three characters for example: 
 
-### First Case      ### Second Case   ### Third Case
-<p> X X X </p>      <p> O X O</p>     <p> X O O </p>
+### First Case     
+<p> X X X </p>
+<p> O * O </p>
+<p> O X O </p>
 
-<p> O * O </p>      <p> X X O</p>     <p> X * O </p>
+### Second Case  
+<p> O X O</p>
+<p> X X O</p>
+<p> X X X</p>
 
-<p> O X O </p>      <p> X X X</p>     <p> X O O </p> 
+### Third Case
+<p> X O O </p>
+<p> X * O </p>
+<p> X O O </p> 
 
 Yoy cannot win with this examples due to somethings issues but i hope fix them soon
 
