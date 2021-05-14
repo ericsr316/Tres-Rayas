@@ -1,13 +1,13 @@
 # Tres-Rayas
-It's just a basic game. It has some issues yet but i'm starting practice C++so I expect fix them soon.
+It's just a basic game. It still has some issues but i'm starting practice C++ so I expect fix them soon.
 
 Tres Rayas it's a simple game where the first one make a line with their caracter.
 
-It's basically a matrix with 3 rows and 3 columns 
+It's basically a matrix  two dimensional array 3x3 
 
 # Game
 
-This is the board where the player's character is 'X' and the machine player is 'O' 
+This is the board where the player's character is 'X' and the machine is 'O' 
 
 <p>*  *  *</p>
 
@@ -30,7 +30,7 @@ Output:
 
 ## AI
 
-There isn't AI just the program choose a random number with the function **rand()** between 0 and 2 due to the numbers of columns and rows. 
+There isn't AI the program just choose a random number with the function **rand()** between 0 and 2 due to the numbers of columns and rows. 
 
 ### Victory
 
@@ -51,7 +51,7 @@ Yes, you can win if you make a line with three characters for example:
 <p> X * O </p>
 <p> X O O </p> 
 
-Yoy cannot win with this examples due to somethings issues but i hope fix them soon
+Yoy cannot win with this examples due to some issues but i hope fix them soon
 
 <p> X O *</p>
 
