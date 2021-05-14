@@ -34,8 +34,6 @@ There isn't AI the program just choose a random number with the function **rand(
 
 ### Victory
 
-Yes, you can win if you make a line with three characters for example: 
-
 ### First Case     
 <p> X X X </p>
 <p> O * O </p>
@@ -43,7 +41,7 @@ Yes, you can win if you make a line with three characters for example:
 
 ### Second Case  
 <p> O X O</p>
-<p> X X O</p>
+<p> O X O</p>
 <p> X X X</p>
 
 ### Third Case
@@ -51,7 +49,7 @@ Yes, you can win if you make a line with three characters for example:
 <p> X * O </p>
 <p> X O O </p> 
 
-Yoy cannot win with this examples due to some issues but i hope fix them soon
+You cannot win in this examples due to some issues but I hope fix them soon
 
 <p> X O *</p>
 
